@@ -18,7 +18,7 @@ Give Recreate an idea and it handles the whole pipeline:
 - Built-in auto-updates — Recreate checks for new versions on launch and updates with one click
 
 ### Install
-Download the installer for your architecture and run it:
+Download the installer for your architecture from the [releases page](https://github.com/ammarrik/recreate-app/releases) and run it:
 
 - **Recreate-Setup-1.0.0-x64.exe** — Intel/AMD (64-bit)
 - **Recreate-Setup-1.0.0-arm64.exe** — ARM (e.g. Snapdragon)
